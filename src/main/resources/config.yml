@@ -1,0 +1,33 @@
+onlyPlayer: "&cOnly players."
+noPerms: "&cNo Perms"
+noPerms-player: "&cNon hai il permesso per congelare %player%"
+
+
+freeze:
+  usage: "&cUsage: /freeze <player>"
+  player-not-found: "&cutente %player% non e stato trovato."
+  already-frozen: "&c%player% e gia congelato"
+  player-frozen: "&aHai congelato %player%"
+  no-self: "&cNon ti puoi congelare da solo :P"
+
+  # METTERE NEL FINE D'AVVIO PRIMA DI -jar -Dfile.encoding=UTF8
+  frozen-message: |-
+    &7
+    &7█████████
+    &7████&c█&7████                      &4&lWARNING!
+    &7███&c█&0█&c█&7███
+    &7██&c█&6█&0█&6█&c█&7██
+    &7██&c█&6█&0█&6█&c█&7██       &cSei stato freezzato. Non sloggare!
+    &7█&c█&6██&0█&6██&c█&7█       &cse esci dal server verrai &4&lBANNATO!
+    &7█&c█&6█████&c█&7█      &cEntra nel nostro TeamSpeak
+    &c█&6███&0█&6███&c█      &7(ts.vantey.it)
+    &c█████████
+    &7█████████
+    &7
+
+unfreeze:
+  usage: "&cUsage: /unfreeze <player>"
+  player-not-found: "&cutente %player% non e stato trovato."
+  player-unfreeze: "&aHai sccongelato %player%"
+  already-unfrozen: "&c%player% e gia sccongelato"
+  no-self: "&cNon ti puoi scongelare da solo :P"

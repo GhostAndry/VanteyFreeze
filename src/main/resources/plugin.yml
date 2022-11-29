@@ -1,0 +1,11 @@
+name: VanteyFreeze
+version: '${project.version}'
+main: me.ghostdevelopment.VanteyFreeze
+authors: [ GhostAndry ]
+
+commands:
+  freeze:
+    aliases: [ss]
+    description:
+  unfreeze:
+    description:
